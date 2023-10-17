@@ -1,1 +1,2 @@
 Chacon, S. and Straub B. Pro Git Apress
+Ryon Hodson. Rys GIT tutorial. Smashwords (2014)
